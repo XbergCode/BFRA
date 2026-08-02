@@ -27,8 +27,11 @@ Requirements
 Installation
 =
 1: Unzip BFRA.
+
 2: Copy BFRemoteManager.ini to the same folder. (If you have it)
+
 3: Double click BFRemoteAdmin.exe to run it.
+
 4: You can remove BFRemoteManager.ini if you did copy it.
 
 
