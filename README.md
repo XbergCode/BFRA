@@ -146,8 +146,7 @@ Version History
 1.0.0
 - Initial public release.
 
-
-<img src="https://github.com/XbergCode/BFRA/blob/main/img/BFRA_status.png" alt="img1" width="600">
-<img src="https://github.com/XbergCode/BFRA/blob/main/img/BFRA_bans.png" alt="img2" width="600">
-<img src="https://github.com/XbergCode/BFRA/blob/main/img/BFRA_dashboard_3x3.png" alt="img3" width="600">
-<img src="https://github.com/XbergCode/BFRA/blob/main/img/BFRA_maps.png" alt="img3" width="600">
+|||
+|:-------------------------:|:-------------------------:|
+|<img src="https://github.com/XbergCode/BFRA/blob/main/img/screenshots/BFRA_status.png" alt="img1" width="600">  |  <img src="https://github.com/XbergCode/BFRA/blob/main/img/screenshots/BFRA_bans.png" alt="img2" width="600">|
+|<img src="https://github.com/XbergCode/BFRA/blob/main/img/screenshots/BFRA_dashboard_3x3.png" alt="img3" width="600">  |  <img src="https://github.com/XbergCode/BFRA/blob/main/img/screenshots/BFRA_maps.png" alt="img3" width="600">|
